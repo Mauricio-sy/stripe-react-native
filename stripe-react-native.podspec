@@ -30,3 +30,4 @@ Pod::Spec.new do |s|
   s.dependency 'StripeApplePay', stripe_version
   s.dependency 'StripeFinancialConnections', stripe_version
 end
+https://github.com/stripe/stripe-react-native/blob/5d7e55198c3577516443b7a65993df15b576c283/stripe-react-native.podspec#L31
